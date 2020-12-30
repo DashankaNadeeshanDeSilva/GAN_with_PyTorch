@@ -22,7 +22,7 @@ The generator creates fake data out of random noise and the discriminator distin
 
 Generated MNIST-like images after training:
 
-![image](https://github.com/DashankaNadeeshanDeSilva/GAN_with_PyTorch/blob/main/GAN%20generated%20MNIST%20images.png)
+![image](https://github.com/DashankaNadeeshanDeSilva/GAN_with_PyTorch/blob/main/images/GAN%20generated%20MNIST%20images.png)
 
 
 
