@@ -2,7 +2,7 @@
 
 **GAN Architecture**
 
-![image2](https://github.com/DashankaNadeeshanDeSilva/GAN_with_PyTorch/blob/main/GAN%20architecture%20illustration.jpeg)
+![image2](https://github.com/DashankaNadeeshanDeSilva/GAN_with_PyTorch/blob/main/images/GAN%20architecture%20illustration.jpeg)
 
 Generative adversarial networks (GANs) are an exciting innovation that create new data instances that resemble the training data. The basic GAN architecture is comprised of two separate models namely generator and discriminator. 
 
