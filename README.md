@@ -18,7 +18,7 @@ The generator creates fake data out of random noise and the discriminator distin
 
 **Running the script**
 
-```Vanilla_GAN.ipynb``` jupyter notebook script can be directly run and it is backed by the ```GAN_utils.py``` scripts which contains data preprocessing and data logging functions. The vanilla GAN implemntation using Pytorch is trained on the MNIST dataset, and learn to create hand-written digit images. 
+```Vanilla_GAN.ipynb``` jupyter notebook script can be directly run and it is backed by the ```GAN_utils.py``` script which contains data preprocessing and data logging functions. The vanilla GAN implemntation using Pytorch is trained on the MNIST dataset, and learn to create hand-written digit images. 
 
 Generated MNIST-like images after training:
 
